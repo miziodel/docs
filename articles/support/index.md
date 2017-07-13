@@ -71,7 +71,7 @@ Critical Production issues should always be reported via the [Support Center](ht
 
 #### Add Support-Only Users
 
-You can support-only to your Auth0 account. This will allow them to open, view, and comment on Suppoer Center tickets, receive relevant notifications, and see service details.  They do not, however, have full administration access to the Auth0 Dashboard.
+You can add support-only users to your Auth0 account. This will allow them to open, view, and comment on Support Center tickets, receive relevant notifications, and see service details. They do not, however, have full administration access to the Auth0 Dashboard.
 
 You can add support-only users via the Support Center. Click on your name in the top right, and click **Support Center Users**.
 
